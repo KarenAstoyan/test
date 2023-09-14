@@ -1,1 +1,11 @@
-
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "am.carservicedriver.www",
+            "sha256_cert_fingerprints":
+            ["19:58:80:03:69:CB:B7:1B:24:0B:D7:C5:36:AD:37:5D:27:86:CA:35:55:57:0A:19:AD:F4:26:5C:99:82:B0:6C"]
+        }
+    }
+]
